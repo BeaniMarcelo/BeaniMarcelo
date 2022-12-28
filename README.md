@@ -2,7 +2,7 @@
 -  I have a Bachelor on System Information and a Post Graduation on Project Managment. 
 -  Already have 8 years as technical suport experiencia and 2 years with Manual Testing in C#.
 -  Working as Software Developer Engineer I 
--  
+
 🌱 I’m currently learning C# at this moment.
  
 💞️ I’m looking up to fill a Base with some exemples and exercices so people can have a overview about what I know.
