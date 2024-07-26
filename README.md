@@ -1,4 +1,4 @@
-👋 Hi, I’m Marcelo Beani, 29yd and a full professional in IT.
+👋 Hi, I’m Marcelo Beani, 31 yd and a full professional in IT.
 -  I have a Bachelor on System Information and a Post Graduation on Project Managment. 
 -  Already have 8 years as technical suport experiencia and 2 years with Manual Testing in C#.
 -  Working as Software Developer Engineer II
